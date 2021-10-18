@@ -1,0 +1,15 @@
+{
+    "name": "bsir/projet",
+    "autoload": {
+        "psr-4": {
+            "Bsir\\Projet\\": "../src/Wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bsir Rachida",
+            "email": "roulgamous@gmail.com"
+        }
+    ],
+    "require": {}
+}
