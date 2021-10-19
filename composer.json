@@ -2,7 +2,7 @@
     "name": "bsir/projet",
     "autoload": {
         "psr-4": {
-            "Bsir\\Projet\\": "../src/Wcs"
+            "App\\Wcs\\": "src/Wcs/"
         }
     },
     "authors": [

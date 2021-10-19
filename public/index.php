@@ -1,8 +1,9 @@
 <?php 
-require_once '../vendor/autoload.php';
-require_once '../src/Wcs/Hello.php';
+require_once './../vendor/autoload.php';
 
-$messgae = new App\Wcs\Hello();
+
+use App\Wcs\Hello;
+$messgae = new Hello();
 echo $messgae->talk();
 
 
